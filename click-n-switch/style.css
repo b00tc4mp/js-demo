@@ -1,0 +1,32 @@
+/* generics */
+
+.pointer:hover {
+    cursor: pointer;
+}
+
+/* blocks */
+
+.panel {
+    background-color: lightgray;
+    border-color: darkgray;
+    border-width: .5rem;
+    border-style: solid;
+    border-radius: 1rem;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    color: dimgrey;
+}
+
+.panel--light {
+    background-color: white;
+}
+
+.panel--dark {
+    background-color: black;
+    border-color: darkgray;
+    color: lightgray;
+}
+
+.smiley {
+    font-size: 3rem;
+}
